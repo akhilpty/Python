@@ -1,1 +1,1 @@
-from collections import OrderedDict
+tub=("l","o","n","g","e","r","d","a","y")
